@@ -4,7 +4,7 @@ Download code về  và import databases(file todolist.sql) vào Mysql
 </p>
 <h1>Config</h1>
 <p>
-Vào file Controller/TaskController.php để  cấu hình lại đường dẫn trỏ đến database
+Vào file Controller/TaskController.php để  cấu hình lại database
 </p>
 <h1>Run</h1>
 <p>
